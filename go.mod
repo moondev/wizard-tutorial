@@ -1,4 +1,4 @@
-module wizard-tutorial
+module github.com/moondev/wizard-tutorial
 
 go 1.19
 
